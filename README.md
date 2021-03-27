@@ -1,7 +1,7 @@
 # development_study
 This github page is for organizing contents of my study
 
-## [React](https://github.com/PoSungKim/algorithm_review/blob/master/c%2B%2B/0.note.md)
+## [React](https://github.com/PoSungKim/development_study/blob/main/React/01.%EC%A3%BC%EC%9A%94%20%EA%B0%9C%EB%85%90.md)
 > Frontend Server로 React
 * TypeScript + Functional Component + Styled Component + Tableau API
 <hr>
