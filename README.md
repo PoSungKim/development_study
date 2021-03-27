@@ -3,7 +3,7 @@ This github page is for organizing contents of my study
 
 ## [React](https://github.com/PoSungKim/algorithm_review/blob/master/c%2B%2B/0.note.md)
 > Frontend Server로 React
-* Functional Component + Styled Component + Tableau API
+* TypeScript + Functional Component + Styled Component + Tableau API
 <hr>
 
 ## [Spring](https://github.com/PoSungKim/algorithm_review/blob/master/c%2B%2B/0.note.md)
