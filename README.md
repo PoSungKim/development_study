@@ -19,3 +19,7 @@ This github page is for organizing contents of my study
 ## [Oracle](https://github.com/PoSungKim/algorithm_review/blob/master/c%2B%2B/0.note.md)
 > PL/SQL + Procedure + Trigger + ERD Cloud (설계)
 <hr>
+
+## [Configuration](https://github.com/PoSungKim/development_study/tree/main/Configuration Management)
+> Git + SVN
+<hr>
