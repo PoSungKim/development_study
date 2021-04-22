@@ -20,6 +20,6 @@ This github page is for organizing contents of my study
 > PL/SQL + Procedure + Trigger + ERD Cloud (설계)
 <hr>
 
-## [Configuration](https://github.com/PoSungKim/development_study/tree/main/Configuration Management)
+## [Configuration](**https://github.com/PoSungKim/development_study/tree/main/Configuration Management**)
 > Git + SVN
 <hr>
