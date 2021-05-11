@@ -1,0 +1,85 @@
+# 선형 자료구조
+> Linear한 자료구조로, 1줄이라고 생각하면 편하다
+
+* 노드와 노드의 관계가 1:1이다
+
+<hr>
+<br>
+
+## 1. 배열 (Array)
+
+#### Fixed Length로, ```조회의 Time Complexity O(1)``` 그리고 ```저장/삭제의 Time Complexity O(n)```
+
+<br>
+
+### [선언]
+```java
+int arr[] = new int[10];
+int[] arr = new int[10];
+```
+
+<br>
+
+### [다차원 배열]
+```java
+int[][] arr = new int[2][3];
+int[][] arr = {{1,2,3}, {4,5,6,7}};
+```
+
+<br>
+
+### [초기화]
+```java
+int[] numbers = new int[] {10, 20, 30};
+int[] numbers = {10, 20, 30};
+
+int[] numbers;
+numbers = new int[] {10, 20, 30};
+```
+
+<br>
+
+### [Enhanced For Loop]
+```java
+for(int num : numbers) {
+  System.out.println(num);
+}
+```
+
+<br>
+<hr>
+<br>
+
+## 2. Object Array 배열
+
+#### Object Data Type으로 객체를 참조하는 자료구조이고, Array의 각 element는 ```Null 값```으로 메모리에 할당되는데, 객체를 참조할 수 있는 ```객체 주소값```을 넣어줘야 한다
+
+<br>
+
+### [선언]
+```java
+Book[] library = new books[5];
+
+for(int i = 0; i < 5; i++) {
+  System.out.println(library[i]); // 각각의 값은 NULL이다.
+}
+
+library[0] = new Book("책 이름1", "책 번호1");
+...
+library[4] = new Book("책 이름5", "책 번호5"); // 각 element에 객체를 참조할 수 있는 주소값을 설정해줘야 한다
+
+for(Book book : library) {
+  System.out.println(book.showInfo());
+}
+```
+
+<br>
+
+### [객체 배열을 구현한 ArrayList 클래스 - java.util 패키지]
+```java
+ArrayList<Book> library = new ArrayList<>(); // <Book>을 안 적으면 왼쪽 <> Type으로 설정된다
+
+library.add(new Book("책 이름1", "책 번호1"));
+...
+library.add(new Book("책 이름5", "책 번호5"));
+```
