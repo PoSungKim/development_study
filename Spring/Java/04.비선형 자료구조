@@ -1,0 +1,21 @@
+비선형 자료구조
+> Non-linear한 자료구조로, 하나의 노드에 0을 포함한 n개에 노드가 붙는다
+* 노드와 노드의 관계가 1:N이다
+
+<hr>
+<br>
+
+## Tree
+
+#### Fixed Length로, ```조회의 Time Complexity O(1)``` 그리고 ```저장/삭제의 Time Complexity O(n)```
+
+<br>
+
+<div align="center">
+  <img width="463" alt="스크린샷 2021-05-12 오전 12 07 31" src="https://user-images.githubusercontent.com/37537227/117839287-0efa2a80-b2b6-11eb-89de-65b7c215bc6f.png">
+</div>
+
+
+<br>
+<hr>
+<br>
