@@ -78,4 +78,4 @@ pd.merge(
 * ```on```: Column or index level names to join on. Must be found in both the left and right DataFrame and/or Series objects. If not passed and left_index and right_index are False, the intersection of the columns in the DataFrames and/or Series will be inferred to be the join keys.
 * ```left_on```: Columns or index levels from the left DataFrame or Series to use as keys. Can either be column names, index level names, or arrays with length equal to the length of the DataFrame or Series.
 * ```right_on```: Columns or index levels from the right DataFrame or Series to use as keys. Can either be column names, index level names, or arrays with length equal to the length of the DataFrame or Series.
-* ```how```: One of 'left', 'right', 'outer', 'inner'. Defaults to inner. See below for more detailed description of each method.
+* ```how```: One of 'left', 'right', 'outer', 'inner'.
