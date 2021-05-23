@@ -79,3 +79,16 @@ pd.merge(
 * ```left_on```: Columns or index levels from the left DataFrame or Series to use as keys. Can either be column names, index level names, or arrays with length equal to the length of the DataFrame or Series.
 * ```right_on```: Columns or index levels from the right DataFrame or Series to use as keys. Can either be column names, index level names, or arrays with length equal to the length of the DataFrame or Series.
 * ```how```: One of 'left', 'right', 'outer', 'inner'.
+
+<br>
+
+### [예시]
+
+```python
+without_prefix = [int(name[2:]) if name[0:2] == 'BK' else name for name in program_df["COL07"] ]
+program_df["without_prefix"] = without_prefix
+
+result = pd.merge(employee_df, program_df, left_on="JIKWON_NO", right_on="without_prefix", how="left")
+result = pd.merge(result, project_df, left_on="COL08", right_on="프로젝트번호", how="left")
+result.head()
+```
