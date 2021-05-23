@@ -37,7 +37,7 @@ import pandas as pd
 
 core_df = pd.read_excel('코어프로그램.xlsx')
 employee_df = pd.read_csv("직원.csv")
-merged_data.pickle("merged_data.pickle")
+merged_df = pd.read_pickle("merged_data.pickle")
 ```
 * ```pd.read_excel()``` : Read an Excel file into a pandas DataFrame.
 * ```pd.read_csv()``` : Read a comma-separated values (csv) file into DataFrame.
@@ -53,8 +53,29 @@ merged_data.pickle("merged_data.pickle")
 
 <br>
 
-### []
+### [pandas.DataFrame.merge]
 
 ```python
-
+pd.merge(
+    left,
+    right,
+    how="inner",
+    on=None,
+    left_on=None,
+    right_on=None,
+    left_index=False,
+    right_index=False,
+    sort=True,
+    suffixes=("_x", "_y"),
+    copy=True,
+    indicator=False,
+    validate=None,
+)
 ```
+
+* ```left```: A DataFrame or named Series object.
+* ```right```: Another DataFrame or named Series object.
+* ```on```: Column or index level names to join on. Must be found in both the left and right DataFrame and/or Series objects. If not passed and left_index and right_index are False, the intersection of the columns in the DataFrames and/or Series will be inferred to be the join keys.
+* ```left_on```: Columns or index levels from the left DataFrame or Series to use as keys. Can either be column names, index level names, or arrays with length equal to the length of the DataFrame or Series.
+* ```right_on```: Columns or index levels from the right DataFrame or Series to use as keys. Can either be column names, index level names, or arrays with length equal to the length of the DataFrame or Series.
+* ```how```: One of 'left', 'right', 'outer', 'inner'. Defaults to inner. See below for more detailed description of each method.
