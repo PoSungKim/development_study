@@ -1,6 +1,11 @@
 # development_study
 This github page is for organizing contents of my study
 
+## [Vim](https://github.com/PoSungKim/development_study/tree/main/Vim)
+> Vim 편집 모드
+* 터미널에서 CLI 명령어 편집 및 프로그램 소스 코드 편집 등에 유용하게 사용 가능
+<hr>
+
 ## [React](https://github.com/PoSungKim/development_study/tree/main/React)
 > Frontend Server로 React
 * TypeScript + Functional Component + Styled Component + Tableau API
