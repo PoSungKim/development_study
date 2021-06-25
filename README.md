@@ -8,6 +8,7 @@ This github page is for organizing contents of my study
 <br/>
 <div align="center">
   <img width = "600px" src="https://user-images.githubusercontent.com/37537227/123351229-a29e6680-d597-11eb-806f-eaa4126f30f9.png" />
+  <img width = "241px" src="https://user-images.githubusercontent.com/37537227/123351739-c615e100-d598-11eb-9b00-0daf1ad64959.png" />
 </div>
 <br/>
 
