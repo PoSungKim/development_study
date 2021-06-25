@@ -20,6 +20,13 @@ This github page is for organizing contents of my study
   
   
 ## [Vim](https://github.com/PoSungKim/development_study/tree/main/Vim)
+  
+<br/>
+<div align="center">
+  <img width = "60%" src="https://user-images.githubusercontent.com/37537227/123396566-680aed00-d5dc-11eb-8d47-6f11e65b89e3.png" />
+</div>
+<br/>  
+  
 > Vim 편집 모드
 * 터미널에서 CLI 명령어 편집 및 프로그램 소스 코드 편집 등에 유용하게 사용 가능
 <hr>
