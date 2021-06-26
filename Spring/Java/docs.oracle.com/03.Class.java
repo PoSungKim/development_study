@@ -9,6 +9,17 @@ public final class Class<T>
   Class has no public constructor. Instead Class objects are constructed automatically by the Java Virtual Machine as classes are loaded and by calls to the defineClass method in the class loader.
   */
   
-  String	getName()
-  Package	getPackage()
+  String    getName()
+  Package   getPackage()
+  Method[]  getMethods()
+}
+
+class GetClass {
+    public void getClass(Class inputClass) {
+    
+        Class testClass = inputClass.class;
+        //Class testClass = inputClass.getClass();
+        Method[] methods = testClass.getMethods();
+        
+    }
 }
