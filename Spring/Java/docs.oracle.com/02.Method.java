@@ -1,3 +1,5 @@
+// https://docs.oracle.com/javase/7/docs/api/java/lang/reflect/Method.html
+
 public final class Method 
   extends AccessibleObject
   implements GenericDeclaration, Member {
@@ -7,9 +9,9 @@ public final class Method
   */
 
   String      getDeclaringClass()
-  String	    getName()
-  Class<?>[]	getParameterTypes()
-  Class<?>	  getReturnType()
-  String	    toGenericString()
-  String	    toString()
+  String.     getName()
+  Class<?>[]  getParameterTypes()
+  Class<?>    getReturnType()
+  String      toGenericString()
+  String      toString()
 }
