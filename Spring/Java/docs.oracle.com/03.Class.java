@@ -21,5 +21,9 @@ class GetClass {
         //Class testClass = inputClass.getClass();
         Method[] methods = testClass.getMethods();
         
+        for(Method method : methods)
+          System.out.println(method);
+        
     }
 }
+
