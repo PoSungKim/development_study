@@ -12,11 +12,11 @@ extends Object {
   */
 
   static <T> List<T>  asList(T... a)
-  static <T> int	    binarySearch(T[] a, int fromIndex, int toIndex, T key, Comparator<? super T> c)
-  static <T> T[]	    copyOf(T[] original, int newLength)
-  static <T> T[]    	copyOfRange(T[] original, int from, int to)
-  static boolean	    equals(T[] a, T[] a2)
-  static void	        fill(T[] a, int fromIndex, int toIndex, T val)
-  static <T> void	    sort(T[] a, int fromIndex, int toIndex, Comparator<? super T> c)
-  static String     	toString(T[] a)
+  static <T> int      binarySearch(T[] a, int fromIndex, int toIndex, T key, Comparator<? super T> c)
+  static <T> T[]      copyOf(T[] original, int newLength)
+  static <T> T[]      copyOfRange(T[] original, int from, int to)
+  static boolean      equals(T[] a, T[] a2)
+  static void         fill(T[] a, int fromIndex, int toIndex, T val)
+  static <T> void     sort(T[] a, int fromIndex, int toIndex, Comparator<? super T> c)
+  static String       toString(T[] a)
 }
