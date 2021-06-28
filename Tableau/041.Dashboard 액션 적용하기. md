@@ -1,16 +1,19 @@
-# Dashboard 엑션 적용하기
+# Dashboard 액션 적용하기
 > 다수의 Worksheet들을 하나로 합칠 수 있는 공간
 * Worksheet에서 구현한 수치 혹은 그래프를 Dashboard에 모두 종합적으로 표현
 
 <hr>
 <br>
 
-## 대시보드 (Dashboard)
+## 액션/동작
 
-#### Tableau에서 만든 대시보드를 `HTML <iframe> 태그의 src에 주소값을 넣어서 불러오는 형식`으로 많이 사용한다
+#### 실행 조건이 수행될 시, 설정된 동작이 실행된다
+
+<div align="center">
+  <img src="
+</div>
 
 <br>
-
 
 ### [주요 컴포넌트]
 
