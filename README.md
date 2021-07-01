@@ -4,6 +4,7 @@ This github page is for organizing contents of my study
 <br>
 
 ## [Tableau](https://github.com/PoSungKim/development_study/tree/main/Tableau)
+> HTML <iframe> 태그를 통한 Tableau 활용
 
 <br/>
 <div align="center">
@@ -12,7 +13,6 @@ This github page is for organizing contents of my study
 </div>
 <br/>
 
-> HTML <iframe> 태그를 통한 Tableau 활용
 * 페이지를 따로 만든 이후에 <iframe>의 src 속성으로 불러오기 및 시각화 가능
 
 <hr>
@@ -37,6 +37,9 @@ This github page is for organizing contents of my study
 
 ## [Spring](https://github.com/PoSungKim/development_study/tree/main/Spring)
 > Backend Server로 Spring (기본 기능)
+
+### 한번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 Online
+
 * MyBatis (SQL문 작성 위주)
 <hr>
 
