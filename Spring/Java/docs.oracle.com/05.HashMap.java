@@ -18,6 +18,6 @@ public class HashMap<K,V>
   V         put(K key, V value)
   V         remove(Object key)
   Set<K>    keySet()
-  Collection<V> alues()
+  Collection<V> values()
 }
 
