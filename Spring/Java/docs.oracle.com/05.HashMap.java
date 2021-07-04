@@ -13,11 +13,11 @@ public class HashMap<K,V>
   boolean   containsKey(Object key)
   boolean   containsValue(Object value)
   V         get(Object key)
-  V	        getOrDefault(Object key, V defaultValue)
-  boolean	  isEmpty()
-  V	        put(K key, V value)
-  V       	remove(Object key)
-  Set<K>	  keySet()
-  Collection<V>	values()
+  V         getOrDefault(Object key, V defaultValue)
+  boolean   isEmpty()
+  V         put(K key, V value)
+  V         remove(Object key)
+  Set<K>    keySet()
+  Collection<V> alues()
 }
 
