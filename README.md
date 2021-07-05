@@ -8,8 +8,8 @@ This github page is for organizing contents of my study
 
 <br/>
 <div align="center">
-  <img width = "60%" src="https://user-images.githubusercontent.com/37537227/123351229-a29e6680-d597-11eb-806f-eaa4126f30f9.png" />
-  <img width = "24%" src="https://user-images.githubusercontent.com/37537227/123351739-c615e100-d598-11eb-9b00-0daf1ad64959.png" />
+  <img width = "43%" src="https://user-images.githubusercontent.com/37537227/124487841-23583080-ddea-11eb-8a30-6dec7da08930.png" />
+  <img width = "22.4%" src="https://user-images.githubusercontent.com/37537227/124487729-07548f00-ddea-11eb-8972-a1cb1eb16cba.jpeg" />
 </div>
 <br/>
 
@@ -23,8 +23,8 @@ This github page is for organizing contents of my study
 
 <br/>
 <div align="center">
-  <img width = "60%" src="https://user-images.githubusercontent.com/37537227/123351229-a29e6680-d597-11eb-806f-eaa4126f30f9.png" />
-  <img width = "24%" src="https://user-images.githubusercontent.com/37537227/123351739-c615e100-d598-11eb-9b00-0daf1ad64959.png" />
+  <img width = "45%" src="https://user-images.githubusercontent.com/37537227/123351229-a29e6680-d597-11eb-806f-eaa4126f30f9.png" />
+  <img width = "18%" src="https://user-images.githubusercontent.com/37537227/123351739-c615e100-d598-11eb-9b00-0daf1ad64959.png" />
 </div>
 <br/>
 
