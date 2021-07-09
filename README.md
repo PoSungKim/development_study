@@ -32,11 +32,11 @@ This github page is for organizing contents of my study
 
 <hr>
   
-## [Vim](https://github.com/PoSungKim/development_study/tree/main/Vim)
+## [Vi](https://github.com/PoSungKim/development_study/tree/main/Vim)
 
 <br/>  
   
-> Vim 편집 모드
+> Vi 편집 모드
 * 터미널에서 CLI 명령어 편집 및 프로그램 소스 코드 편집 등에 유용하게 사용 가능
 <hr>
 
