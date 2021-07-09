@@ -32,7 +32,7 @@ This github page is for organizing contents of my study
 
 <hr>
   
-## [Vi](https://github.com/PoSungKim/development_study/tree/main/Vim)
+## [Vi](https://github.com/PoSungKim/development_study/tree/main/Vi)
 
 <br/>  
   
