@@ -10,21 +10,21 @@ public class ArrayDeque<E>
   This class is likely to be faster than Stack when used as a stack, and faster than LinkedList when used as a queue.
   */
   
-  void	clear();
-  ArrayDeque<E>	clone();
+  void          clear();
+  ArrayDeque<E> clone();
   
-  boolean	contains(Object o);
+  boolean       contains(Object o);
   
-  boolean add(E e);
-  void    addFirst(E e);
-  void    addLast(E e);
+  boolean       add(E e);
+  void          addFirst(E e);
+  void          addLast(E e);
   
-  E	getFirst();
-  E	getLast();
+  E             getFirst();
+  E             getLast();
   
-  E	removeFirst();
-  E	removeLast();
+  E             removeFirst();
+  E             removeLast();
   
-  int	size();
-  Object[]	toArray();
+  int           size();
+  Object[]      toArray();
 }
