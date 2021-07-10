@@ -9,7 +9,11 @@ public class ArrayDeque<E>
 
   This class is likely to be faster than Stack when used as a stack, and faster than LinkedList when used as a queue.
   */
-  
+
+  E            	peek();
+  E            	peekFirst();
+  E            	peekLast();
+
   boolean       add(E e);
   void          addFirst(E e);
   void          addLast(E e);
