@@ -5,16 +5,12 @@ public class HashSet<E>
   implements Set<E>, Cloneable, Serializable {
   
   /*
-  Resizable-array implementation of the Deque interface. 
-  Array deques have no capacity restrictions; 
-  they grow as necessary to support usage. 
+  This class implements the Set interface, backed by a hash table (actually a HashMap instance). 
+  It makes no guarantees as to the iteration order of the set; in particular, it does not guarantee that the order will remain constant over time. 
   
-  They are not thread-safe; 
-  in the absence of external synchronization, they do not support concurrent access by multiple threads. 
-  Null elements are prohibited. 
-
-  This class is likely to be faster than Stack when used as a stack, and faster than LinkedList when used as a queue.
+  This class permits the null element.
   */
+  
   boolean add(E e);
   void    clear();
 
