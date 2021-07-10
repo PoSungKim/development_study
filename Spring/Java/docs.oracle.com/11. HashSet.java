@@ -11,8 +11,8 @@ public class HashSet<E>
   This class permits the null element.
   */
   
-  boolean      add(E e);
-  void         clear();
+  boolean     add(E e);
+  void        clear();
 
   Object      clone();
 
