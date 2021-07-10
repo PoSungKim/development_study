@@ -1,4 +1,4 @@
-// https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
+// https://docs.oracle.com/javase/7/docs/api/java/util/ArrayDeque.html
 
 public class ArrayDeque<E>
   extends AbstractCollection<E>
