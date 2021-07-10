@@ -1,7 +1,7 @@
 // https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
 
-public final class Math
-  extends Object {
+public class Stack<E>
+  extends Vector<E> {
   
   /*
   The Stack class represents a last-in-first-out (LIFO) stack of objects. 
