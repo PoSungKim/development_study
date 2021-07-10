@@ -11,19 +11,19 @@ public class HashSet<E>
   This class permits the null element.
   */
   
-  boolean add(E e);
-  void    clear();
+  boolean      add(E e);
+  void         clear();
 
-  Object  clone();
+  Object      clone();
 
-  boolean contains(Object o);
+  boolean     contains(Object o);
 
-  boolean	isEmpty();
+  boolean     isEmpty();
   
-  Iterator<E>	iterator();
+  Iterator<E> iterator();
 
-  boolean	remove(Object o);
+  boolean     remove(Object o);
   
-  int     size();
+  int         size();
 }
  
