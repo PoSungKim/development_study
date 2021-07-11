@@ -25,4 +25,5 @@ public class HashMap<K,V>
   
   Set<K>        keySet();
   Collection<V> values();
+  Set<Map.Entry<K,V>> entrySet()
 }
