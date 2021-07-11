@@ -3,21 +3,27 @@
 public class HashMap<K,V>
   extends AbstractMap<K,V>
   implements Map<K,V>, Cloneable, Serializable {
-  
-  /*
-  Hash table based implementation of the Map interface. 
-  This class makes no guarantees as to the order of the map; in particular, it does not guarantee that the order will remain constant over time.
-  */
-  
-  void      clear()
-  boolean   containsKey(Object key)
-  boolean   containsValue(Object value)
-  V         get(Object key)
-  V         getOrDefault(Object key, V defaultValue)
-  boolean   isEmpty()
-  V         put(K key, V value)
-  V         remove(Object key)
-  Set<K>    keySet()
-  Collection<V> values()
-}
 
+  void          clear();
+  Object        clone();
+  
+  boolean       containsKey(Object key);
+  boolean       containsValue(Object value);
+  
+  V             get(Object key);
+  V             getOrDefault(Object key, V defaultValue);
+  
+  boolean       isEmpty();
+  
+  V             put(K key, V value);
+  void          putAll(Map<? extends K,? extends V> m);
+  
+  V             remove(Object key);
+  boolean       remove(Object key, Object value);
+  
+  int           size();
+  
+  Set<K>        keySet();
+  Collection<V> values();
+  Set<Map.Entry<K,V>> entrySet()
+}
