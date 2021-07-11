@@ -4,22 +4,25 @@ public class HashMap<K,V>
   extends AbstractMap<K,V>
   implements Map<K,V>, Cloneable, Serializable {
 
-  void      clear();
-  Object    clone();
+  void          clear();
+  Object        clone();
   
-  boolean   containsKey(Object key);
-  boolean   containsValue(Object value);
+  boolean       containsKey(Object key);
+  boolean       containsValue(Object value);
   
-  V         get(Object key);
-  V         getOrDefault(Object key, V defaultValue);
+  V             get(Object key);
+  V             getOrDefault(Object key, V defaultValue);
   
-  boolean   isEmpty();
+  boolean       isEmpty();
   
-  V         put(K key, V value);
-  void      putAll(Map<? extends K,? extends V> m);
+  V             put(K key, V value);
+  void          putAll(Map<? extends K,? extends V> m);
   
-  V         remove(Object key);
-  boolean   remove(Object key, Object value);
+  V             remove(Object key);
+  boolean       remove(Object key, Object value);
   
-  int       size();
+  int           size();
+  
+  Set<K>        keySet();
+  Collection<V> values();
 }
