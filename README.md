@@ -51,6 +51,13 @@ This github page is for organizing contents of my study
 
 ## [React](https://github.com/PoSungKim/development_study/tree/main/React)
 > Frontend Server로 React
+<br/>
+<div align="center">
+  <img width = "45%" src="https://user-images.githubusercontent.com/37537227/125407560-f52fad80-e3f4-11eb-9766-d21ba56a0640.png" />
+  <!-- <img width = "18%" src="https://user-images.githubusercontent.com/37537227/125379056-cac8fa80-e3ca-11eb-94cb-226f6871759e.png" /> -->
+</div>
+<br/>
+
 * TypeScript + Functional Component + Styled Component + Tableau API
 <hr>
 
