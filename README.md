@@ -15,9 +15,6 @@ This github page is for organizing contents of my study
 
 * 페이지를 따로 만든 이후에 <iframe>의 src 속성으로 불러오기 및 시각화 가능
 
-
-<br>
-
 ## [Tableau](https://github.com/PoSungKim/development_study/tree/main/Tableau)
 > HTML <iframe> 태그를 통한 Tableau 활용
 
