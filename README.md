@@ -36,13 +36,20 @@ This github page is for organizing contents of my study
 
 <br/>  
   
-> Vi 편집 모드
+> Vi 편집 모드 
 * 터미널에서 CLI 명령어 편집 및 프로그램 소스 코드 편집 등에 유용하게 사용 가능
 <hr>
 
 ## [Shell](https://github.com/PoSungKim/development_study/tree/main/Shell)
 > Shell Script
+<br/>
+<div align="center">
+  <img width = "37.5%" src="https://user-images.githubusercontent.com/37537227/125379236-1f6c7580-e3cb-11eb-8b91-8140d6d16313.png" />
+  <img width = "18%" src="https://user-images.githubusercontent.com/37537227/125379056-cac8fa80-e3ca-11eb-94cb-226f6871759e.png" />
+</div>
+<br/>
 * Shell 명령어를 통해 System Software 쪽 제어 가능
+
 <hr>
 
 ## [React](https://github.com/PoSungKim/development_study/tree/main/React)
@@ -53,7 +60,7 @@ This github page is for organizing contents of my study
 ## [Spring](https://github.com/PoSungKim/development_study/tree/main/Spring)
 > Backend Server로 Spring (기본 기능)
 
-  <br/>
+ <br/>
 <div align="center">
   <img width = "50%" src="https://user-images.githubusercontent.com/37537227/124357922-e27ce200-dc58-11eb-8fba-55f300bf4d9c.png">
   <img width = "17.2%" src="https://user-images.githubusercontent.com/37537227/124357900-c9743100-dc58-11eb-98e1-6ee069b8bcc0.png" />
