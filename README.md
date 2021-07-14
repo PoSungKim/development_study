@@ -58,7 +58,7 @@ This github page is for organizing contents of my study
 <br/>
 <div align="center">
   <img width = "45%" src="https://user-images.githubusercontent.com/37537227/125407560-f52fad80-e3f4-11eb-9766-d21ba56a0640.png" />
-  <!-- <img width = "18%" src="https://user-images.githubusercontent.com/37537227/125379056-cac8fa80-e3ca-11eb-94cb-226f6871759e.png" /> -->
+  <img width = "22.5%" src="https://user-images.githubusercontent.com/37537227/125546146-56395973-d409-44b7-b693-7082a5d1a15b.png" />
 </div>
 <br/>
 
