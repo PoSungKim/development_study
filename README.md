@@ -29,11 +29,15 @@ This github page is for organizing contents of my study
 
 <hr>
   
-## [Vi](https://github.com/PoSungKim/development_study/tree/main/Vi)
-
-<br/>  
-  
+## [Vi](https://github.com/PoSungKim/development_study/tree/main/Vi)  
 > Vi 편집 모드 
+<br/>
+<div align="center">
+  <img width = "36%" src="https://user-images.githubusercontent.com/37537227/125545954-30263d95-2e0c-4d4c-a61e-a53ace6a7f08.png" />
+  <img width = "18%" src="https://user-images.githubusercontent.com/37537227/125545728-9e776fdf-d41c-4174-80a1-19551e31ce2d.png" />
+</div>
+<br/>
+  
 * 터미널에서 CLI 명령어 편집 및 프로그램 소스 코드 편집 등에 유용하게 사용 가능
 <hr>
 
@@ -41,7 +45,7 @@ This github page is for organizing contents of my study
 > Shell Script
 <br/>
 <div align="center">
-  <img width = "37.5%" src="https://user-images.githubusercontent.com/37537227/125379236-1f6c7580-e3cb-11eb-8b91-8140d6d16313.png" />
+  <img width = "40%" src="https://user-images.githubusercontent.com/37537227/125545604-b04ff270-d8ce-46ac-88d6-aa26a315b332.png" />
   <img width = "18%" src="https://user-images.githubusercontent.com/37537227/125379056-cac8fa80-e3ca-11eb-94cb-226f6871759e.png" />
 </div>
 <br/>
