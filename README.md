@@ -92,8 +92,14 @@ This github page is for organizing contents of my study
 </div>
 <br/>
   
-  <hr>
+<hr>
 
 ## [Configuration Management](https://github.com/PoSungKim/development_study/tree/main/Configuration%20Management)
 > Git + SVN
-<hr>
+<br/>
+<div align="center">
+  <img width = "45%"   src="https://user-images.githubusercontent.com/37537227/125704945-7f357842-83b7-4249-9397-84c96531c765.png" />
+  <img width = "24.5%" src="https://user-images.githubusercontent.com/37537227/125704994-135792c0-ae6b-4e3b-93e8-a29b0af0753c.png" />
+</div>
+<br/>
+<hr>  
