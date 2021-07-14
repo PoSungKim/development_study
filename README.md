@@ -82,10 +82,17 @@ This github page is for organizing contents of my study
 > Backend Server로 Django (기본 데이터 분석 및 ML/AL 관련 기능)
 * ORM (Object-Relational Mapping, Driver 사용 위주)
 <hr>
-
+  
 ## [Oracle](https://github.com/PoSungKim/algorithm_review/blob/master/c%2B%2B/0.note.md)
 > PL/SQL + Procedure + Trigger + ERD Cloud (설계)
-<hr>
+<br/>
+<div align="center">
+  <img width = "45%" src="https://user-images.githubusercontent.com/37537227/125546329-6500c290-d2ed-41a4-b1aa-64a591497942.png">
+  <img width = "24.5%" src="https://user-images.githubusercontent.com/37537227/125546410-ea122628-d2ce-460f-ab92-6322fb33b33d.png" />
+</div>
+<br/>
+  
+  <hr>
 
 ## [Configuration Management](https://github.com/PoSungKim/development_study/tree/main/Configuration%20Management)
 > Git + SVN
