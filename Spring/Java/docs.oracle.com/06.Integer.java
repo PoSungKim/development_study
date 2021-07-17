@@ -10,4 +10,19 @@ public final class Integer
   
   static String toString(int i);
   static int    parseInt(String s);
+  
+  static int    bitCount(int i);
+  static int    reverse(int i);
+  
+  static String toBinaryString(int i);
+  static String toHexString(int i);
+  static String toOctalString(int i);
+  
+  String        toString();
+  static String toString(int i);
+  static String toString(int i, int radix);
+
+  static Integer valueOf(int i);
+  static Integer valueOf(String s);
+  static Integer valueOf(String s, int radix);
 }
