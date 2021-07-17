@@ -17,18 +17,18 @@ public class PriorityQueue<E>
   PriorityQueue(SortedSet<? extends E> c);
   
   // Methods
-  boolean	add(E e);
-  boolean	offer(E e);
-  E	peek();
-  E	poll();
-  boolean	remove(Object o);
-  boolean	contains(Object o);
+  boolean add(E e);
+  boolean offer(E e);
+  E peek();
+  E poll();
+  boolean remove(Object o);
+  boolean contains(Object o);
 
-  int	size();
-  void	clear();
-  Object[]	toArray();
-  <T> T[]	toArray(T[] a);
+  int size();
+  void clear();
+  Object[] toArray();
+  <T> T[] toArray(T[] a);
 
-  Comparator<? super E>	comparator();
-  Iterator<E>	iterator();
+  Comparator<? super E> comparator();
+  Iterator<E> iterator();
 }
