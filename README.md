@@ -3,6 +3,20 @@ This github page is for organizing contents of my study
 
 <br>
 
+## [Hadoop](https://github.com/PoSungKim/development_study/tree/main/Hadoop)
+> Hadoop Cluster 
+
+<br/>
+<div align="center">
+  <img width = "41%" src="https://user-images.githubusercontent.com/37537227/126330966-43cf22b3-6d13-4df7-a0ca-ed646f44c403.png" />
+  <img width = "22.4%" src="https://user-images.githubusercontent.com/37537227/126330716-857edf0d-6717-487f-b923-9517523b8571.png" />
+</div>
+<br/>
+
+* 데이터 변환에 대한 이해 필요
+
+<hr>
+
 ## [Kubernetes](https://github.com/PoSungKim/development_study/tree/main/Kubernetes)
 > 가상화, 컨테이너, 컨테이너 올케스트레이션을 통한 Devops
 
@@ -13,7 +27,7 @@ This github page is for organizing contents of my study
 </div>
 <br/>
 
-* 페이지를 따로 만든 이후에 <iframe>의 src 속성으로 불러오기 및 시각화 가능
+* 가상화에 대한 이해 필요
 
 <hr>
 
