@@ -65,6 +65,7 @@ This github page is for organizing contents of my study
   <img width = "18%" src="https://user-images.githubusercontent.com/37537227/125379056-cac8fa80-e3ca-11eb-94cb-226f6871759e.png" />
 </div>
 <br/>
+  
 * Shell 명령어를 통해 System Software 쪽 제어 가능
 
 <hr>
