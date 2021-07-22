@@ -1,0 +1,61 @@
+# Deployment
+> 쿠버네티스는 크게 Master Component와 Node Component로 나뉘어진다
+* 
+
+<hr>
+<br>
+
+## 볼륨,디스크 서비스
+
+#### 
+<br>
+
+### 볼륨
+* 데이터를 담는 디렉토리
+  * 컨테이너 간 볼륨 공유
+* 공유 방법
+  * volumeMounts
+* 유형
+  * emptyDir : Pod 안에 생성
+  * hostPath : Local Disk에 생성
+  * gitRepo : emptyDir에 git clone
+  * PersistentVolume (PV) : 정적 프로비져닝, pod와 별개로 운영
+  * PersistentVolumeClaim (PVC) : 동적 프롭져닝, 사용자가 PV에 하는 요청
+
+<br>
+<hr>
+<br>
+
+## 쿠버네티스 서비스
+
+#### 
+<br>
+
+### 서비스
+* Pod 집합과 같이 어플리케이션들에 접근하는 방식을 기술하는 API 객체
+  * 포트 기술 가능
+  * Pod 간 묶음해서 로드발랜싱 가능
+  * 지정된 IP로 생성 가능
+
+
+<br>
+<hr>
+<br>
+
+## Health Check
+
+#### 
+
+<br>
+
+### Health Check
+
+* 주기적으로 컨테이너를 확인하여, 컨테이너를 재시작하거나, 문제가 있는 컨테이너(Pod)를 서비스에서 제외하는 방식
+* Probe Type
+  * Liveness Probe
+  * Readiness Probe
+* 실제 확인 방식
+  * Command Probe
+  * HTTP Probe
+  * TCP Probe
+
