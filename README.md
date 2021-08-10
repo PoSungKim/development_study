@@ -13,7 +13,7 @@ This github page is for organizing contents of my study
 </div>
 <br/>
 
-* 데이터 변환에 대한 이해 필요
+* 분산 파일시스템에 대한 이해 필요 
 
 <hr>
 
