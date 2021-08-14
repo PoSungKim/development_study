@@ -2,9 +2,10 @@ package CompileTest;
 
 import java.util.Scanner;
 
-class Tes {
+public class compileJava {
     public static void main(String[] args) {
-        System.out.println("Tes");
+        Test.main(args);
+        Test2.main(args);
     }
 }
 
