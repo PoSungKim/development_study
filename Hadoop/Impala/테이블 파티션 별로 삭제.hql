@@ -1,4 +1,6 @@
 
+SHOW PARTITONS tableName;
+
 ALTER TABLE tableName DROP PARTITION(partitionName='partitionValue');
 
 ALTER TABLE tableName DROP PARTITION(partitionName < 'partitionValue');
