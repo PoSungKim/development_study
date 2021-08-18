@@ -1,5 +1,5 @@
 
-SHOW PARTITONS tableName;
+SHOW PARTITIONS tableName;
 
 ALTER TABLE tableName DROP PARTITION(partitionName='partitionValue');
 
