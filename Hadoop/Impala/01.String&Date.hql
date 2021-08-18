@@ -15,5 +15,5 @@ SELECT CAST(CONCAT_WS('-', substr('20210817', 1, 4), substr('20210817', 4, 2), s
 -- <2021-08-21 00:00:00>
 
 SELECT DATE_SUB(CAST(CONCAT_WS('-', substr('20210817', 1, 4), substr('20210817', 4, 2), substr('20210817', 7)) AS timestamp), INTERVAL 3 MONTHS) ;;
--- <>
+-- <2021-05-21 00:00:00>
 -- INTERVAL Expression allows you to utilize the shorthand expression of various dates such as YEARS, MONTHS, WEEKS, HOURS, SECONDS
