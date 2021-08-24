@@ -1,3 +1,4 @@
+-- https://118k.tistory.com/780
 
 SHOW PARTITIONS tableName;
 
