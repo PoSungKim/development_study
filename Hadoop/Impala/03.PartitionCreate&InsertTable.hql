@@ -51,3 +51,6 @@ PARTITIONED BY (c)
 STORED AS PARQUET
 AS 
 SELECT * FROM base.pskim_test;
+
+CREATE TABLE base.pskim_test3
+LIKE base.pskim_test;
