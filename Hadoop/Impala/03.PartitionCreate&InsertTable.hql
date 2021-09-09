@@ -52,5 +52,5 @@ STORED AS PARQUET
 AS 
 SELECT * FROM base.pskim_test;
 
-CREATE TABLE base.pskim_test3
+CREATE TABLE base.pskim_test4
 LIKE base.pskim_test;
