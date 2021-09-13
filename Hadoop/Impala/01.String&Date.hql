@@ -20,5 +20,5 @@ SELECT DATE_SUB(CAST(CONCAT_WS('-', substr('20210817', 1, 4), substr('20210817',
 -- Purpose: Converts a TIMESTAMP value into a string representing the same value.
 -- Return type: STRING
 
-SELECT FROM_TIMESTAMP(DATE_SUB(CAST(CONCAT_WS('-', substr('20210817', 1, 4), substr('20210817', 4, 2), substr('20210817', 7)) AS timestamp), INTERVAL 3 MONTHS), 'yyyy---MM---dd') ;;
-
+SELECT FROM_TIMESTAMP(DATE_SUB(CAST(CONCAT_WS('-', substr('20210817', 1, 4), substr('20210817', 4, 2), substr('20210817', 7)) AS timestamp), INTERVAL 3 MONTHS), 'yyyyMMdd') ;;
+SELECT FROM_TIMESTAMP(DATE_SUB(TO_TIMESTAMP('20210817', 'yyyyMMdd'), INTERVAL 3 MONTHS), 'yyyyMMdd');
