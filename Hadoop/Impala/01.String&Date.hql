@@ -21,4 +21,12 @@ SELECT DATE_SUB(CAST(CONCAT_WS('-', substr('20210817', 1, 4), substr('20210817',
 -- Return type: STRING
 
 SELECT FROM_TIMESTAMP(DATE_SUB(CAST(CONCAT_WS('-', substr('20210817', 1, 4), substr('20210817', 4, 2), substr('20210817', 7)) AS timestamp), INTERVAL 3 MONTHS), 'yyyyMMdd') ;;
+
+-- 위의 HiveQL문은 아래의 HiveQL문으로 줄여질 수 있다. Cast() 함수는 날짜 타입의 형태로 맞춰줘야 하기에 
+
 SELECT FROM_TIMESTAMP(DATE_SUB(TO_TIMESTAMP('20210817', 'yyyyMMdd'), INTERVAL 3 MONTHS), 'yyyyMMdd');
+
+SELECT CAST('2021-09-13' as TIMESTAMP);
+SELECT TO_DATE('2021-09-13 12:00:00');
+SELECT TO_TIMESTAMP('2021-09-13', 'yyyy-MM-dd');
+SELECT TO_TIMESTAMP('20210913', 'yyyyMMdd');
