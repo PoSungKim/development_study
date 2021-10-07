@@ -57,8 +57,8 @@ This github page is for organizing contents of my study
 * 터미널에서 CLI 명령어 편집 및 프로그램 소스 코드 편집 등에 유용하게 사용 가능
 <hr>
 
-## [Shell](https://github.com/PoSungKim/development_study/tree/main/Shell)
-> Shell Script
+## [Script](https://github.com/PoSungKim/development_study/tree/main/Script)
+> Shell Script && Python Script
 <br/>
 <div align="center">
   <img width = "40%" src="https://user-images.githubusercontent.com/37537227/125545604-b04ff270-d8ce-46ac-88d6-aa26a315b332.png" />
@@ -66,7 +66,7 @@ This github page is for organizing contents of my study
 </div>
 <br/>
   
-* Shell 명령어를 통해 System Software 쪽 제어 가능
+* Shell 명령어와 Python를 통해 System Software 쪽 제어 가능
 
 <hr>
 
