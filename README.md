@@ -100,7 +100,7 @@ This github page is for organizing contents of my study
 * ORM (Object-Relational Mapping, Driver 사용 위주)
 <hr>
   
-## [Oracle](https://github.com/PoSungKim/algorithm_review/blob/master/c%2B%2B/0.note.md)
+## [Oracle](https://github.com/PoSungKim/development_study/tree/main/RDBMS)
 > PL/SQL + Procedure + Trigger + ERD Cloud (설계)
 <br/>
 <div align="center">
