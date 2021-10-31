@@ -13,7 +13,7 @@ This github page is for organizing contents of my study
 </div>
 <br/>
 
-<br>
+<hr>
 
 ## [Hadoop](https://github.com/PoSungKim/development_study/tree/main/Hadoop)
 > Hadoop Cluster 
