@@ -36,5 +36,4 @@ SELECT TO_TIMESTAMP('20210913', 'yyyyMMdd');
 -- TIMESTAMP 값 혹은 String 값에 대해서 지정한 자리수 이하를 버림
 -- Parameter : (timestamp date, string date-format);
 -- Return    : timestamp modified_date
-SELECT trunc('2021-11-04 12:00:00', 'D'); SELECT trunc('2021-11-04 12:00:00', 'mm');  SELECT trunc('2021-11-04 12:00:00', 'yyyy'); 
 SELECT date_trunc('day', loaded_at);      SELECT date_trunc('month', loaded_at);       SELECT date_trunc('year', loaded_at);
