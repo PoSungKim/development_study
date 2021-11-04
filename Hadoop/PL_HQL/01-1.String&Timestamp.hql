@@ -32,3 +32,9 @@ SELECT TO_DATE('2021-09-13 12:00:00'); -- 2021-09-13
 -- 다양한 형태의 String 값을 Timestamp로 변경 가능
 SELECT TO_TIMESTAMP('2021-09-13 12:00:00', 'yyyy-MM-dd HH:mm:ss');
 SELECT TO_TIMESTAMP('20210913', 'yyyyMMdd');
+
+-- TIMESTAMP 값 혹은 String 값에 대해서 지정한 자리수 이하를 버림
+-- Parameter : (timestamp date, string date-format);
+-- Return    : timestamp modified_date
+SELECT trunc('2021-11-04 12:00:00', 'D'); SELECT trunc('2021-11-04 12:00:00', 'mm');  SELECT trunc('2021-11-04 12:00:00', 'yyyy'); 
+SELECT date_trunc('day', loaded_at);      SELECT date_trunc('month', loaded_at);       SELECT date_trunc('year', loaded_at);
