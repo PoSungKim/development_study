@@ -3,7 +3,7 @@ import org.apache.spark.sql.SQLContext
 import org.apache.spark.{SparkConf, SparkContext}
 
 // Spark 설정
-object ReadTextFile {
+object CountTrips {
   def main(args : Array[String]) : Unit = {
     var conf = new SparkConf().setAppName("Read Text File in Spark").setMaster("local[*]")
     val sc = new SparkContext(conf)
