@@ -29,7 +29,7 @@ object CategoryReviewAverage {
         val categoryReviewCount = categoryReviews.mapValues(e => (e, 1))
         categoryReviewCount.collect()
 
-        val reduced = categoryReviewCount.reduceByKey( (x,y) => (x._1 + y._1, x._2 + y._2))
+        val reduced = categoryReviewCount.reduceByKey( (x,y) => (x.productElement(1).toString.toInt + y._1, x._2 + y._2))
         reduced.collect()
 
         val averages = reduced.mapValues( x => (x._1 / x._2))
