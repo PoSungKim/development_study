@@ -1,6 +1,21 @@
 # Development_Study  
 This github page is for organizing contents of my study
- 
+
+<br>
+
+## [AWS](https://github.com/PoSungKim/development_study/tree/main/AWS)
+> 퍼블릭 클라우드 환경에서 서버 인프라 구축
+
+<br/>
+<div align="center">
+  <img width = "41%" src="https://user-images.githubusercontent.com/37537227/146794823-e2b64c4e-7232-434e-85c2-d01f119f6a13.png" />
+  <img width = "17.7%" src="https://user-images.githubusercontent.com/37537227/146795001-490637b5-efe6-4c63-9ec3-55af2368bebb.png" />
+</div>
+
+<br/>
+
+<hr>
+
 <br>
 
 ## [Spark](https://github.com/PoSungKim/development_study/tree/main/Spark)
