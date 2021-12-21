@@ -16,6 +16,19 @@ This github page is for organizing contents of my study
 
 <hr>
 
+## [Kafka](https://github.com/PoSungKim/development_study/tree/main/Kafka)
+> 실시간 스트리밍 서비스 (Producer-Consumer)
+
+<br/>
+<div align="center">
+  <img width = "41%" src="https://user-images.githubusercontent.com/37537227/146870568-330393b5-e67e-4643-8d9e-f5e8e3b16aa3.png" />
+  <img width = "17.7%" src="https://user-images.githubusercontent.com/37537227/146870767-3dc27276-c5c4-4053-b506-238fbc6beaec.png" />
+</div>
+
+<br/>
+
+<hr>
+
 <br>
 
 ## [Spark](https://github.com/PoSungKim/development_study/tree/main/Spark)
