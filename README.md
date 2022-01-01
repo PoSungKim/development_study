@@ -33,8 +33,6 @@ This github page is for organizing contents of my study
 
 <hr>
 
-<br>
-
 ## [Spark](https://github.com/PoSungKim/development_study/tree/main/Spark)
 > In-Memory 대용량 데이터 분석 엔진
 
