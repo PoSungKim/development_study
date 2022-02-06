@@ -8,8 +8,8 @@ This github page is for organizing contents of my study
 
 <br/>
 <div align="center">
-  <img width = "41%" src="https://user-images.githubusercontent.com/37537227/146796544-a3453219-4d33-493a-9d7b-24b26fccd98e.png" />
-  <img width = "17.7%" src="https://user-images.githubusercontent.com/37537227/146795001-490637b5-efe6-4c63-9ec3-55af2368bebb.png" />
+  <img width = "43.6%" src="https://user-images.githubusercontent.com/37537227/146796544-a3453219-4d33-493a-9d7b-24b26fccd98e.png" />
+  <img width = "17.7%" src="https://user-images.githubusercontent.com/37537227/152683896-51a49ad8-99fa-43fc-b401-441d72edc0f5.png" />
 </div>
 
 <br/>
