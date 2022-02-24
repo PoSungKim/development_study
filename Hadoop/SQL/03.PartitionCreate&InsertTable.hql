@@ -1,7 +1,6 @@
 CREATE TABLE base.pskim_test (
   a STRING,
-  b STRING,
-  c STRING
+  b STRING
  ) 
  PARTITONED BY (c STRING)
  STORED AS PARQUET;
