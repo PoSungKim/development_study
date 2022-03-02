@@ -1,4 +1,4 @@
-// Stored as, partioned by 등의 세부 사항이 자동 적용 >> 매우 유용
+-- Stored as, partioned by 등의 세부 사항이 자동 적용 >> 매우 유용
 CREATE TABLE temp_table LIKE real_table;
 
 INSERT INTO temp_table
