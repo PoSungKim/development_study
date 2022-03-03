@@ -3,6 +3,18 @@ This github page is for organizing contents of my study
 
 <br>
 
+## [CI/CD](https://github.com/PoSungKim/development_study/tree/main/CI_CD)
+> Continuous Integration + Continuous Deployment
+
+<br/>
+<div align="center">
+  <img width = "43.6%" src="https://user-images.githubusercontent.com/37537227/156604201-6f4ebf54-25db-4824-b444-2ffd290a1ab5.png" />
+</div>
+
+<br/>
+
+<hr>
+
 ## [AWS](https://github.com/PoSungKim/development_study/tree/main/AWS)
 > 퍼블릭 클라우드 환경에서 서버 인프라 구축
 
