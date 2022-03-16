@@ -3,12 +3,12 @@ This github page is for organizing contents of my study
 
 <br>
 
-## [CI/CD](https://github.com/PoSungKim/development_study/tree/main/CI_CD)
-> Continuous Integration + Continuous Deployment
+## [Airflow](https://github.com/PoSungKim/development_study/tree/main/Airflow)
+> Platform to Schedule and Monitor Workflows
 
 <br/>
 <div align="center">
-  <img width = "43.6%" src="https://user-images.githubusercontent.com/37537227/156604201-6f4ebf54-25db-4824-b444-2ffd290a1ab5.png" />
+  <img width = "43.6%" src="https://user-images.githubusercontent.com/37537227/158618507-80e23bee-e42d-4458-bb4b-f611ea334976.png" />
 </div>
 
 <br/>
