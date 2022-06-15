@@ -146,7 +146,9 @@ This github page is for organizing contents of my study
 </div>
 <br/>
 
-* MyBatis (SQL문 작성 위주)
+* SQL Mapper : MyBatis
+* ORM : JPA
+
 <hr>
 
 ## [Django](https://github.com/PoSungKim/development_study/tree/main/Django)
