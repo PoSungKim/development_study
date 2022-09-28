@@ -4,7 +4,7 @@ This github page is for organizing contents of my study
 <br>
 
 ## [DDD&TDD&BDD](https://github.com/PoSungKim/development_study/tree/main/DDD%26TDD%26BDD)
-> Domain-driven Development (레이어와 역할 분배)
+> Domain-driven Design (레이어와 역할 분배)
 
 <br/>
 <div align="center">
