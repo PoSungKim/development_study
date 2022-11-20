@@ -3,7 +3,7 @@ This github page is for organizing contents of my study
 
 <br>
 
-## [Programming](https://github.com/PoSungKim/development_study/tree/main/Vi)
+## [Programming](https://github.com/PoSungKim/development_study/tree/main/Programming)
 > Java, JavaScript, TypeScript, Shell Script, Python Script, Vi
 
 <br/>
@@ -15,7 +15,7 @@ This github page is for organizing contents of my study
 <br/>
 <hr>
 
-## [WAS](https://github.com/PoSungKim/development_study/tree/main/Spring)
+## [WAS](https://github.com/PoSungKim/development_study/tree/main/WAS)
 > Spring: SQL Mapper (MyBatis) + ORM(JPA)
 
 > Django: ORM (Object-Relational Mapping, Driver 사용 위주)
@@ -30,7 +30,7 @@ This github page is for organizing contents of my study
 <br/>
 <hr>
 
-## [WEB](https://github.com/PoSungKim/development_study/tree/main/React)
+## [WEB](https://github.com/PoSungKim/development_study/tree/main/WEB)
 > React : TypeScript + Functional Component + Styled Component + Tableau API
 <br/>
 <div align="center">
