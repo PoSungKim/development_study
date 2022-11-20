@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Computer Science/Computer Science.iml" filepath="$PROJECT_DIR$/Computer Science/Computer Science.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Spring.iml" filepath="$PROJECT_DIR$/Spring/Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/development_study.iml" filepath="$PROJECT_DIR$/.idea/development_study.iml" />
+    </modules>
+  </component>
+</project>
