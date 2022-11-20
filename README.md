@@ -62,7 +62,7 @@ This github page is for organizing contents of my study
 <br/>
 <hr>
 
-## [DataEngineering](https://github.com/PoSungKim/development_study/tree/main/DataEngineering)
+## [DataEngineering](https://github.com/PoSungKim/development_study/tree/main/DataEnginnering)
 > Airflow : Platform to Schedule and Monitor Workflows
 
 > Spark : In-Memory 대용량 데이터 분석 엔진
