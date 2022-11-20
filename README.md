@@ -40,7 +40,7 @@ This github page is for organizing contents of my study
 <br/>
 <hr>
 
-## [DB](https://github.com/PoSungKim/development_study/tree/main/Computer%20Science/DB)
+## [DB](https://github.com/PoSungKim/development_study/tree/main/DB)
 > Oracle : PL/SQL + Procedure + Trigger + ERD Cloud (설계)
 
 > MySQL : 
