@@ -3,17 +3,30 @@ This github page is for organizing contents of my study
 
 <br>
 
-## [Programming](https://github.com/PoSungKim/development_study/tree/main/Vi)
+## [Programming](https://github.com/PoSungKim/development_study/tree/main/Programming)
 > Java, JavaScript, TypeScript, Shell Script, Python Script, Vi
 
 <br/>
 <div align="center">
+    <img width = "16.5%" src="https://user-images.githubusercontent.com/37537227/202902594-7c3e7bb8-651f-4fa6-ba44-938772fc469d.png" />
+    <img width = "16.7%" src="https://user-images.githubusercontent.com/37537227/202902724-6b02f0c6-4e1c-44e9-958f-935161f603fa.png" />
     <img width = "18%" src="https://user-images.githubusercontent.com/37537227/125379056-cac8fa80-e3ca-11eb-94cb-226f6871759e.png" />
 </div>
 <br/>
 <hr>
 
-## [WAS](https://github.com/PoSungKim/development_study/tree/main/Spring)
+
+## [SWEngineering](https://github.com/PoSungKim/development_study/tree/main/SWEnginnering)
+> Domain-driven Design (레이어와 역할 분배)
+
+<br/>
+<div align="center">
+  <img width = "17.7%" src="https://user-images.githubusercontent.com/37537227/190163948-e8a4dbb7-c9f5-4f20-ba34-019a0d7c597d.png" />
+</div>
+<br/>
+<hr>
+
+## [WAS](https://github.com/PoSungKim/development_study/tree/main/WAS)
 > Spring: SQL Mapper (MyBatis) + ORM(JPA)
 
 > Django: ORM (Object-Relational Mapping, Driver 사용 위주)
@@ -28,7 +41,7 @@ This github page is for organizing contents of my study
 <br/>
 <hr>
 
-## [WEB](https://github.com/PoSungKim/development_study/tree/main/React)
+## [WEB](https://github.com/PoSungKim/development_study/tree/main/WEB)
 > React : TypeScript + Functional Component + Styled Component + Tableau API
 <br/>
 <div align="center">
@@ -38,7 +51,7 @@ This github page is for organizing contents of my study
 <br/>
 <hr>
 
-## [DB](https://github.com/PoSungKim/development_study/tree/main/Computer%20Science/DB)
+## [DB](https://github.com/PoSungKim/development_study/tree/main/DB)
 > Oracle : PL/SQL + Procedure + Trigger + ERD Cloud (설계)
 
 > MySQL : 
@@ -50,17 +63,7 @@ This github page is for organizing contents of my study
 <br/>
 <hr>
 
-## [SWEngineering](https://github.com/PoSungKim/development_study/tree/main/SWEngineering)
-> Domain-driven Design (레이어와 역할 분배)
-
-<br/>
-<div align="center">
-  <img width = "17.7%" src="https://user-images.githubusercontent.com/37537227/190163948-e8a4dbb7-c9f5-4f20-ba34-019a0d7c597d.png" />
-</div>
-<br/>
-<hr>
-
-## [DataEngineering](https://github.com/PoSungKim/development_study/tree/main/DataEngineering)
+## [DataEngineering](https://github.com/PoSungKim/development_study/tree/main/DataEnginnering)
 > Airflow : Platform to Schedule and Monitor Workflows
 
 > Spark : In-Memory 대용량 데이터 분석 엔진
