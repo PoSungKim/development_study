@@ -15,6 +15,17 @@ This github page is for organizing contents of my study
 <br/>
 <hr>
 
+
+## [SWEngineering](https://github.com/PoSungKim/development_study/tree/main/SWEngineering)
+> Domain-driven Design (레이어와 역할 분배)
+
+<br/>
+<div align="center">
+  <img width = "17.7%" src="https://user-images.githubusercontent.com/37537227/190163948-e8a4dbb7-c9f5-4f20-ba34-019a0d7c597d.png" />
+</div>
+<br/>
+<hr>
+
 ## [WAS](https://github.com/PoSungKim/development_study/tree/main/WAS)
 > Spring: SQL Mapper (MyBatis) + ORM(JPA)
 
@@ -48,16 +59,6 @@ This github page is for organizing contents of my study
 <div align="center">
   <img width = "45%" src="https://user-images.githubusercontent.com/37537227/125546329-6500c290-d2ed-41a4-b1aa-64a591497942.png">
   <img width = "24.5%" src="https://user-images.githubusercontent.com/37537227/125546410-ea122628-d2ce-460f-ab92-6322fb33b33d.png" />
-</div>
-<br/>
-<hr>
-
-## [SWEngineering](https://github.com/PoSungKim/development_study/tree/main/SWEngineering)
-> Domain-driven Design (레이어와 역할 분배)
-
-<br/>
-<div align="center">
-  <img width = "17.7%" src="https://user-images.githubusercontent.com/37537227/190163948-e8a4dbb7-c9f5-4f20-ba34-019a0d7c597d.png" />
 </div>
 <br/>
 <hr>
