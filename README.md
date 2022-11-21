@@ -16,7 +16,7 @@ This github page is for organizing contents of my study
 <hr>
 
 
-## [SWEngineering](https://github.com/PoSungKim/development_study/tree/main/SWEngineering)
+## [SWEngineering](https://github.com/PoSungKim/development_study/tree/main/SWEnginnering)
 > Domain-driven Design (레이어와 역할 분배)
 
 <br/>
