@@ -9,7 +9,6 @@ This github page is for organizing contents of my study
 <br/>
 <div align="center">
     <img width = "16.5%" src="https://user-images.githubusercontent.com/37537227/202902594-7c3e7bb8-651f-4fa6-ba44-938772fc469d.png" />
-    <img width = "16.7%" src="https://user-images.githubusercontent.com/37537227/202902724-6b02f0c6-4e1c-44e9-958f-935161f603fa.png" />
     <img width = "18%" src="https://user-images.githubusercontent.com/37537227/125379056-cac8fa80-e3ca-11eb-94cb-226f6871759e.png" />
 </div>
 <br/>
@@ -22,6 +21,7 @@ This github page is for organizing contents of my study
 <br/>
 <div align="center">
   <img width = "17.7%" src="https://user-images.githubusercontent.com/37537227/190163948-e8a4dbb7-c9f5-4f20-ba34-019a0d7c597d.png" />
+  <img width = "16.7%" src="https://user-images.githubusercontent.com/37537227/202902724-6b02f0c6-4e1c-44e9-958f-935161f603fa.png" />
 </div>
 <br/>
 <hr>
