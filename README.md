@@ -58,8 +58,8 @@ This github page is for organizing contents of my study
 > MySQL : 
 <br/>
 <div align="center">
-  <img width = "45%" src="https://user-images.githubusercontent.com/37537227/125546329-6500c290-d2ed-41a4-b1aa-64a591497942.png">
-  <img width = "24.5%" src="https://user-images.githubusercontent.com/37537227/125546410-ea122628-d2ce-460f-ab92-6322fb33b33d.png" />
+    <img width = "20%" src="https://user-images.githubusercontent.com/37537227/211290506-c91d8a48-0a6f-4d84-a12f-ae0a21ef5975.png" />
+    <img width = "25%" src="https://user-images.githubusercontent.com/37537227/125546410-ea122628-d2ce-460f-ab92-6322fb33b33d.png" />
 </div>
 <br/>
 <hr>
