@@ -4,10 +4,11 @@ This github page is for organizing contents of my study
 <br>
 
 ## [Programming](https://github.com/PoSungKim/development_study/tree/main/Programming)
-> Java, JavaScript, TypeScript, Shell Script, Python Script, Vi
+> Kotlin, Java, JavaScript, TypeScript, Shell Script, Python Script, Vi
 
 <br/>
 <div align="center">
+    <img width = "17.7%" src="https://github.com/PoSungKim/development_study/assets/37537227/a3126515-cddd-4bd4-984d-22b6d09ee77a" />
     <img width = "16.5%" src="https://user-images.githubusercontent.com/37537227/202902594-7c3e7bb8-651f-4fa6-ba44-938772fc469d.png" />
     <img width = "16.8%" src="https://user-images.githubusercontent.com/37537227/202840545-91f9d049-732e-441c-8e92-b2ec5330fe0d.png" />
     <img width = "18%" src="https://user-images.githubusercontent.com/37537227/125379056-cac8fa80-e3ca-11eb-94cb-226f6871759e.png" />
